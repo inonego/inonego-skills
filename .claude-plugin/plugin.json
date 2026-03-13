@@ -1,0 +1,9 @@
+{
+  "name": "inonego-skills",
+  "description": "inonego의 Claude Code 스킬 모음. C# 컨벤션, Unity 개발 규칙 등을 포함합니다.",
+  "version": "1.0.0",
+  "author": {
+    "name": "inonego"
+  },
+  "skills": ["./skills/csharp-conventions", "./skills/progressive-planning"]
+}

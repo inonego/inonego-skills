@@ -1,0 +1,23 @@
+{
+  "name": "inonego-skills",
+  "id": "inonego-skills",
+  "owner": {
+    "name": "inonego"
+  },
+  "metadata": {
+    "description": "inonego의 Claude Code 스킬 모음",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "inonego-skills",
+      "source": "./",
+      "description": "inonego의 Claude Code 스킬 모음",
+      "version": "1.0.0",
+      "author": {
+        "name": "inonego"
+      },
+      "category": "development"
+    }
+  ]
+}
